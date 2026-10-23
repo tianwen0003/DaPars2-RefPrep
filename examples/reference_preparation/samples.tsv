@@ -1,0 +1,3 @@
+sample_id	bigwig	mapped_alignments
+sample_1	coverage/sample_1.bw	50000000
+sample_2	coverage/sample_2.bw	100000000
