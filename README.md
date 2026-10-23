@@ -1,3 +1,5 @@
+![RNA-seq-guided reference filtering and collapse workflow](docs/images/reference_filtering_workflow.png)
+
 # DaPars2-RefPrep
 
 RNA-seq-guided reference preparation for [DaPars2](https://github.com/3UTR/DaPars2).
